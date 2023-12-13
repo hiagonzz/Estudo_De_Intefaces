@@ -1,6 +1,6 @@
 package modelServices;
 
-public class BrazilTaxService {
+public class BrazilTaxService implements TaxService {
 
      
     public double tax (double amount){
